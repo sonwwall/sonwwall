@@ -7,6 +7,6 @@
 
 <h2 align="center">📊 GitHub at a glance</h2>
 
-![GitHub contributions, programming languages, and recently starred repositories](./github-metrics.svg)
+![GitHub contributions, programming languages, and recently starred repositories](https://raw.githubusercontent.com/sonwwall/sonwwall/main/github-metrics.svg)
 
 <p align="center"><sub>Refreshed daily · Powered by GitHub Actions</sub></p>
