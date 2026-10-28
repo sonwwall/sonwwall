@@ -3,6 +3,10 @@
   <p><em>Learning by building · Sharing along the way</em></p>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sonwwall/sonwwall/main/.github/profile/tech-stack.svg" alt="My most-used programming languages" width="100%">
+</p>
+
 ---
 
 <h2 align="center">📊 GitHub at a glance</h2>
