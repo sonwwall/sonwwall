@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About me
 
-- 🔭 I'm currently working on **实习中...**
+- 🔭 I'm currently working on **Backend Development Intern**
 - 🌱 I'm currently learning **Go and Agent**
 - 📫 How to reach me: **2233like@gmail.com**
 - ⚡ Fun fact: **happy coding, happy life**
