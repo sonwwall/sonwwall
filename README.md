@@ -7,8 +7,6 @@
 
 <h2 align="center">📊 GitHub at a glance</h2>
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub contributions, programming languages, and recently starred repositories" width="960">
-</p>
+![GitHub contributions, programming languages, and recently starred repositories](./github-metrics.svg)
 
 <p align="center"><sub>Refreshed daily · Powered by GitHub Actions</sub></p>
