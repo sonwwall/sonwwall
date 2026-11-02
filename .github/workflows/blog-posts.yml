@@ -12,6 +12,7 @@ jobs:
   update-readme-with-blog:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Update README with latest articles
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
